@@ -1,0 +1,38 @@
+.banner {
+  background: #bed8f3;
+  padding: 30px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.banner-title {
+  color: #2d3d29;
+}
+
+.home {
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  width: 70%;
+  padding: 10px 0px;
+  background:  #bed8f3;
+  display: inline-block;
+  border-radius: 10px;
+}
+.user {
+  display: inline-block;
+  width: 45%;
+}
+
+.company {
+  display: inline-block;
+  width: 45%;
+}
+
+.name_user {
+  text-transform: capitalize;
+}
